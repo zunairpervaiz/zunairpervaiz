@@ -24,7 +24,7 @@
 
 ### A Student & Developer
 
-<img alt="GIF" src="coding.gif" width="100%" height="320" />
+<img alt="GIF" src="coding.gif" width="100%" height="400" />
 
 #### Talking about my personal stuff:
 - 🙋‍♂️ Former Google DSC Lead [GCU Faisalabad]
