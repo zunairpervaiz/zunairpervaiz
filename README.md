@@ -7,7 +7,7 @@
 
 <p><a href="http://zunairpervaiz.github.io/">Portfolio Website</a></p>
 <p align="center">Let's connect!</p>
-<p>
+<p align="center">
 <a href="https://www.facebook.com/zunair.pervaiz/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
