@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&
-logo=Java&logoColor=black" />
+<!-- <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&
+logo=Java&logoColor=black" /> -->
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react&logoColor=white" />
 </div>
