@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-<p>I'm Zunair Pervaiz, I love building amazing software which make an impact and share open source projects @ <a href="https://github.com/zunairpervaiz">Github</a>.</p>
+<p>I'm Zunair Pervaiz, I love building amazing software and websites which make an impact and share open source projects @ <a href="https://github.com/zunairpervaiz">Github</a>.</p>
 
 <p><a href="http://zunairpervaiz.github.io/">Portfolio Website</a></p>
 <p align="center">Let's connect!</p>
@@ -28,10 +28,10 @@
 
 #### Talking about my personal stuff:
 - 🙋‍♂️ Former Google DSC Lead [GCU Faisalabad]
-- 💻 The tech I'm interested Flutter/ML/AR etc.
-- 📱 First Live app on Play Store [RLC Romy License Center][rlc]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare
+- 💻 The tech I'm interested Flutter/ML/AR/React etc.
+- 📱 Recent Live app on Play Store [RLC Romy License Center]
+- ✨ I'm learning Flutter, React Native, Web scrapping, Automations etc.
+- 🎮 Currently: Medal of Honor War Fighter
 - 📄 Live [Portfolio][profile]
 
 <div align="center">
